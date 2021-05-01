@@ -8,6 +8,15 @@
   "profile": {
     "name": "Josh"
   },
+  "test": {
+    "level1": {
+      "level2": {
+        "level3": [
+          1,2,3,4
+        ]
+      }
+    }
+  },
    "logs": [
         {
             "season": 2021,
