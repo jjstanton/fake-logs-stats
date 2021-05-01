@@ -8,152 +8,151 @@
   "profile": {
     "name": "Josh"
   },
-   "logs": [
-      {
-      "2021": {
-        "super-league": [
-          {
-            "id": "1",
-            "pos": 1,
-            "club": "Stellenbosch",
-            "matchesPlayed": 18,
-            "wins": 15,
-            "draws": 0,
-            "losses": 3,
-            "ptFor": 26,
-            "ptAgainst": 5,
-            "ptDiff": 5,
-            "Pts": 109,
-            "lastFive": [1, 1, 1, 1, 1]
-          },
-          {
-            "id": "2",
-            "pos": 2,
-            "club": "UCT",
-            "matchesPlayed": 18,
-            "wins": 11,
-            "draws": 0,
-            "losses": 7,
-            "ptFor": 18,
-            "ptAgainst": 7,
-            "ptDiff": 7,
-            "Pts": 33,
-            "lastFive": [1, 0, 1, 1, 1]
-          },
-          {
-            "id": "3",
-            "pos": 3,
-            "club": "False Bay",
-            "matchesPlayed": 18,
-            "wins": 8,
-            "draws": 0,
-            "losses": 10,
-            "ptFor": 14,
-            "ptAgainst": 9,
-            "ptDiff": 9,
-            "Pts": 24,
-            "lastFive": [1, 0, 1, 0, 1]
-          },
-          {
-            "id": "4",
-            "pos": 4,
-            "club": "Primrose",
-            "matchesPlayed": 18,
-            "wins": 7,
-            "draws": 0,
-            "losses": 12,
-            "ptFor": 11,
-            "ptAgainst": 9,
-            "ptDiff": 9,
-            "Pts": 21,
-            "lastFive": [0, 0, 0, 1, 1]
-          },
-          {
-            "id": "5",
-            "pos": 5,
-            "club": "Tygerberg",
-            "matchesPlayed": 18,
-            "wins": 7,
-            "draws": 0,
-            "losses": 11,
-            "ptFor": 10,
-            "ptAgainst": 8,
-            "ptDiff": 8,
-            "Pts": 21,
-            "lastFive": [0, 0, 0, 0, 1]
-          },
-          {
-            "id": "6",
-            "pos": 6,
-            "club": "NNK",
-            "matchesPlayed": 17,
-            "wins": 6,
-            "draws": 1,
-            "losses": 11,
-            "ptFor": 8,
-            "ptAgainst": 11,
-            "ptDiff": 11,
-            "Pts": 18,
-            "lastFive": [0, 0, 2, 1, 0]
-          },
-          {
-            "id": "7",
-            "pos": 7,
-            "club": "Victorians",
-            "matchesPlayed": 18,
-            "wins": 5,
-            "draws": 0,
-            "losses": 13,
-            "ptFor": 5,
-            "ptAgainst": 9,
-            "ptDiff": 9,
-            "Pts": 15,
-            "lastFive": [0, 0, 0, 0, 0]
-          },
-          {
-            "id": "8",
-            "pos": 8,
-            "club": "Kuilsrivier",
-            "matchesPlayed": 18,
-            "wins": 4,
-            "draws": 1,
-            "losses": 13,
-            "ptFor": 6,
-            "ptAgainst": 12,
-            "ptDiff": 12,
-            "Pts": 12,
-            "lastFive": [0, 0, 2, 1, 0]
-          },
-          {
-            "id": "9",
-            "pos": 9,
-            "club": "SK Walmers",
-            "matchesPlayed": 18,
-            "wins": 4,
-            "draws": 0,
-            "losses": 14,
-            "ptFor": 6,
-            "ptAgainst": 10,
-            "ptDiff": 10,
-            "Pts": 12,
-            "lastFive": [0, 0, 1, 0, 0]
-          },
-          {
-            "id": "10",
-            "pos": 10,
-            "club": "Belhar",
-            "matchesPlayed": 17,
-            "wins": 4,
-            "draws": 0,
-            "losses": 13,
-            "ptFor": 4,
-            "ptAgainst": 9,
-            "ptDiff": 9,
-            "Pts": 12,
-            "lastFive": [0, 0, 0, 1, 0]
-          }
-        ]
-      }
+  "logs":
+    {
+    "2021": {
+      "super-league": [
+        {
+          "id": "1",
+          "pos": 1,
+          "club": "Stellenbosch",
+          "matchesPlayed": 18,
+          "wins": 15,
+          "draws": 0,
+          "losses": 3,
+          "ptFor": 26,
+          "ptAgainst": 5,
+          "ptDiff": 5,
+          "Pts": 109,
+          "lastFive": [1, 1, 1, 1, 1]
+        },
+        {
+          "id": "2",
+          "pos": 2,
+          "club": "UCT",
+          "matchesPlayed": 18,
+          "wins": 11,
+          "draws": 0,
+          "losses": 7,
+          "ptFor": 18,
+          "ptAgainst": 7,
+          "ptDiff": 7,
+          "Pts": 33,
+          "lastFive": [1, 0, 1, 1, 1]
+        },
+        {
+          "id": "3",
+          "pos": 3,
+          "club": "False Bay",
+          "matchesPlayed": 18,
+          "wins": 8,
+          "draws": 0,
+          "losses": 10,
+          "ptFor": 14,
+          "ptAgainst": 9,
+          "ptDiff": 9,
+          "Pts": 24,
+          "lastFive": [1, 0, 1, 0, 1]
+        },
+        {
+          "id": "4",
+          "pos": 4,
+          "club": "Primrose",
+          "matchesPlayed": 18,
+          "wins": 7,
+          "draws": 0,
+          "losses": 12,
+          "ptFor": 11,
+          "ptAgainst": 9,
+          "ptDiff": 9,
+          "Pts": 21,
+          "lastFive": [0, 0, 0, 1, 1]
+        },
+        {
+          "id": "5",
+          "pos": 5,
+          "club": "Tygerberg",
+          "matchesPlayed": 18,
+          "wins": 7,
+          "draws": 0,
+          "losses": 11,
+          "ptFor": 10,
+          "ptAgainst": 8,
+          "ptDiff": 8,
+          "Pts": 21,
+          "lastFive": [0, 0, 0, 0, 1]
+        },
+        {
+          "id": "6",
+          "pos": 6,
+          "club": "NNK",
+          "matchesPlayed": 17,
+          "wins": 6,
+          "draws": 1,
+          "losses": 11,
+          "ptFor": 8,
+          "ptAgainst": 11,
+          "ptDiff": 11,
+          "Pts": 18,
+          "lastFive": [0, 0, 2, 1, 0]
+        },
+        {
+          "id": "7",
+          "pos": 7,
+          "club": "Victorians",
+          "matchesPlayed": 18,
+          "wins": 5,
+          "draws": 0,
+          "losses": 13,
+          "ptFor": 5,
+          "ptAgainst": 9,
+          "ptDiff": 9,
+          "Pts": 15,
+          "lastFive": [0, 0, 0, 0, 0]
+        },
+        {
+          "id": "8",
+          "pos": 8,
+          "club": "Kuilsrivier",
+          "matchesPlayed": 18,
+          "wins": 4,
+          "draws": 1,
+          "losses": 13,
+          "ptFor": 6,
+          "ptAgainst": 12,
+          "ptDiff": 12,
+          "Pts": 12,
+          "lastFive": [0, 0, 2, 1, 0]
+        },
+        {
+          "id": "9",
+          "pos": 9,
+          "club": "SK Walmers",
+          "matchesPlayed": 18,
+          "wins": 4,
+          "draws": 0,
+          "losses": 14,
+          "ptFor": 6,
+          "ptAgainst": 10,
+          "ptDiff": 10,
+          "Pts": 12,
+          "lastFive": [0, 0, 1, 0, 0]
+        },
+        {
+          "id": "10",
+          "pos": 10,
+          "club": "Belhar",
+          "matchesPlayed": 17,
+          "wins": 4,
+          "draws": 0,
+          "losses": 13,
+          "ptFor": 4,
+          "ptAgainst": 9,
+          "ptDiff": 9,
+          "Pts": 12,
+          "lastFive": [0, 0, 0, 1, 0]
+        }
+      ]
     }
-  ]
+    }
 }
