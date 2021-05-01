@@ -10,7 +10,7 @@
   },
     "seasons": [
         {
-            "season": 2021,
+            "season": "2021",
             "leagues": [
                 {
                     "league": "super-league",
